@@ -1,2 +1,2 @@
 # MAYANKJAIN_26MAY-ML_PROJECTS-
-ML-Projcets 26 MAY Batch
+ML-Projects 26 MAY Batch
